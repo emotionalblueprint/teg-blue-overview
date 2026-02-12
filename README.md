@@ -1,10 +1,16 @@
 # TEG-Blue
 
-**The Emotional Gradient Blueprint** — An integrative architecture that connects established research from neuroscience, psychology, sociology, and trauma studies into a unified system for understanding emotional experience.
+**The Emotional Gradient Blueprint** — An integrative architecture for emotional clarity, connecting established research from neuroscience, psychology, sociology, and trauma studies into a unified system for understanding emotional experience.
 
 ## The Core Insight
 
 > **State determines capacity** — what someone can perceive, feel, think, and do depends on their nervous system regulatory state, not their character or intelligence.
+
+## The Reframe
+
+Emotions are biological information — data about safety and threat, not irrational impulses to be managed or overcome.
+
+This changes everything. Instead of asking "why am I so emotional?" we ask "what is my nervous system detecting?" This is neuroception — the body's below-conscious scanning for safety and threat.
 
 TEG-Blue maps how emotional states move from nervous system regulation into social systems and healing pathways. The framework operates through:
 
@@ -28,7 +34,7 @@ The application site offers:
 - **Emotional Tools** — Visual thermometers and gradient scales for self-assessment
 - **Inner Compass** — The Four-Mode Gradient for orientation ("Where am I?")
 - **The Map** — 12 levels explaining emotional patterns ("Why am I here?")
-- **Circuit Board** — Interactive model applying the system to your specific life
+- **Circuit Board** — Interactive model that calculates your personal coordinates: how system friction (societal factors) and childhood conditioning shape your current position and escalation pathway
 
 Two content tiers: **Explorer** (accessible, personal) and **Deep Diver** (professional, clinical).
 
@@ -77,6 +83,22 @@ These research traditions developed independently, within separate disciplines, 
 > The key variable that predicts relational and behavioral outcomes is not a person's current regulatory state, but their **capacity to return to Connection when challenged.**
 
 This capacity is measurable. It shows up in language. It appears to be predicted by **complexity markers** — signs of self-awareness, perspective-taking, and emotional differentiation.
+
+## The Dual Question
+
+TEG-Blue answers two questions:
+- **Where am I?** — What's my current nervous system state?
+- **Where are they?** — What state is the other person in?
+
+Knowing both tells you what's relationally possible. You can't have a Connection conversation with someone in Control. You can't reason with someone in Protection. The map shows you what to expect — and what's actually available.
+
+## The Mobility Principle
+
+> **Health is mobility, not position.**
+
+Everyone moves through all four modes. Being in Protection isn't the problem — getting stuck there is. A well-regulated system returns to Connection when the threat passes. A dysregulated system stays locked in protection even when safety is available.
+
+The key variable isn't where someone is right now. It's whether they can move.
 
 ## Getting Started
 

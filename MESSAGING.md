@@ -17,6 +17,14 @@ Single source of truth for how we describe TEG-Blue across all contexts. When in
 - A diagnostic system
 - A personality typology
 
+### The Reframe
+
+**Old view:** Emotions are irrational impulses to be managed, controlled, or overcome.
+
+**TEG-Blue view:** Emotions are biological information — data about safety and threat from a system that evolved to keep us alive.
+
+This reframe is foundational. Once emotions become data, we can read them. We can map them. We can understand what they're telling us without being hijacked by them.
+
 ### The "1 + 2 = 3" Principle
 
 TEG-Blue doesn't invent the building blocks. Polyvagal Theory, Attachment Theory, Affective Neuroscience, Trauma Research — these are established. They are the "1" and the "2."
@@ -97,6 +105,49 @@ Rather than labeling people or diagnosing traits, TEG-Blue focuses on **state-de
 
 ---
 
+## The Dual Lens
+
+TEG-Blue answers two questions simultaneously:
+
+| Question | Focus | Component |
+|----------|-------|-----------|
+| **Where am I?** | Self-orientation | Inner Compass |
+| **Where are they?** | Other-orientation | Inner Compass |
+| **Why am I here?** | Self-understanding | The Map |
+| **Why are they there?** | Other-understanding | The Map |
+
+**The outcome:** Knowing both positions tells you what's relationally possible.
+
+- Both in Connection → engage, collaborate, repair
+- One in Protection → wait, offer safety cues, don't push
+- One in Control/Domination → protect yourself, set boundaries, limit exposure
+
+This dual-lens approach is what makes TEG-Blue relational, not just personal. It's not enough to know yourself. You need to read others to know what's actually available between you.
+
+---
+
+## The Mobility Principle
+
+> **Health is mobility, not position.**
+
+Everyone moves through all four modes. Protection isn't pathology — it's a survival response. The problem is when someone gets stuck.
+
+A well-regulated nervous system:
+- Shifts into Protection when threat appears
+- Returns to Connection when threat passes
+- Moves fluidly based on actual conditions
+
+A dysregulated system:
+- Stays locked in Protection even when safety is present
+- Can't access Connection even when it's available
+- Treats everything as threat
+
+**The key variable isn't where someone is. It's whether they can move.**
+
+This is the core testable claim: capacity to return to Connection predicts relational outcomes better than current state.
+
+---
+
 ## Level 1: Tagline (5-10 words)
 
 Use for: Logo lockup, social bios, favicon alt text
@@ -104,6 +155,7 @@ Use for: Logo lockup, social bios, favicon alt text
 | Version | Use When |
 |---------|----------|
 | **The Emotional Gradient Blueprint** | Default, formal |
+| **An integrative architecture for emotional clarity** | LinkedIn, professional contexts |
 | **Mapping emotions from nervous system to social system** | Descriptive |
 | **Understanding emotions through nervous system science** | Accessible |
 
@@ -220,6 +272,9 @@ Use for: Landing pages, detailed About sections, press releases
 - "we need scientific verification" (invites collaboration, shows humility)
 - "nervous system states" (not "personality types")
 - "patterns" (not "disorders" or "problems")
+- "neuroception" (Porges' term for below-conscious threat detection)
+- "emotions as data" or "biological information" (not "irrational impulses")
+- "mobility" and "capacity to return" (not fixed states)
 
 ### Never Use:
 - "TEG-Blue proves..."
@@ -259,6 +314,11 @@ Use these ready-made pairs for landing pages, pitch decks, and introductions.
 **Problem:** AI systems trained on human communication inherit our emotional ambiguities and amplify them at scale — unable to distinguish protection from manipulation.
 
 **Solution:** TEG-Blue offers a structured representation of emotional dynamics that could inform more emotionally intelligent AI systems — legibility not just for humans, but for the systems we build.
+
+### For Accessible Introduction
+**Problem:** We've been told emotions are irrational — something to manage, control, or overcome. But what if they're actually information?
+
+**Solution:** TEG-Blue treats emotions as biological data about safety and threat. A map that shows where you are, where others are, and what that means for what's possible between you.
 
 ---
 
