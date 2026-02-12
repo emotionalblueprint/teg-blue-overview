@@ -10,12 +10,26 @@ Single source of truth for how we describe TEG-Blue across all contexts. When in
 - An integrative architecture connecting established research into a unified system
 - A framework for understanding emotional experience through nervous system regulation
 - A mapping system with practical tools
+- A hypothesis about how established theories connect — open for scientific verification
 
 **What TEG-Blue is NOT:**
-- A new theory (it synthesizes existing ones)
 - A therapy or treatment method
 - A diagnostic system
 - A personality typology
+
+### The "1 + 2 = 3" Principle
+
+TEG-Blue doesn't invent the building blocks. Polyvagal Theory, Attachment Theory, Affective Neuroscience, Trauma Research — these are established. They are the "1" and the "2."
+
+**What TEG-Blue proposes is the "3" — specific connections between them:**
+- That nervous system regulation shapes moral perception
+- That attachment patterns and social stratification follow parallel structures
+- That protection and domination exist on a continuous gradient with identifiable transitions
+- That linguistic complexity markers indicate regulatory capacity
+
+The individual theories are validated. The connections are our hypothesis. We need the scientific community to help us see if "3" makes sense.
+
+This is why we say: **"The originality is not in the individual theories — it is in the connections between them."**
 
 ---
 
@@ -197,10 +211,13 @@ Use for: Landing pages, detailed About sections, press releases
 ## Phrases to Use / Avoid
 
 ### Always Use:
-- "integrative architecture" (not "new theory")
+- "integrative architecture" (for the overall system)
+- "the building blocks are established; the connections are our hypothesis"
 - "synthesizes established research" (not "discovered")
+- "proposes connections" (for cross-disciplinary claims)
 - "working hypothesis" (for unvalidated claims)
 - "the framework proposes" (not "proves")
+- "we need scientific verification" (invites collaboration, shows humility)
 - "nervous system states" (not "personality types")
 - "patterns" (not "disorders" or "problems")
 
