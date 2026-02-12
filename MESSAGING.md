@@ -350,4 +350,70 @@ Both teg-blue.com and teg-blue.org should use messaging from this document. When
 
 ---
 
+## Site-Specific Voice
+
+TEG-Blue uses two voices for two audiences:
+
+### teg-blue.com — Application Voice
+
+**Lead with:** Tools, recognition, practical application
+**Tone:** Warm, personal, accessible
+**Entry:** "Most of us were never taught..."
+**Audience:** Anyone struggling, curious, or wanting to understand themselves and others
+
+**Tagline:** Tools to understand yourself and the people around you.
+
+**Opening:**
+> TEG-Blue is a visual framework for understanding emotional patterns — built on the principle that emotions are biological information, not irrational noise.
+>
+> Most of us were never taught to read our own emotions clearly. We were told to calm down, toughen up, or let it go. We learned to override what we felt instead of understanding what it meant. TEG-Blue changes that.
+
+**Two ways in:**
+- **Emotional Tools** — 16 visual instruments for spotting patterns. No theory required.
+- **Circuit Board** — Your personal coordinates. What society assigned, what childhood shaped.
+
+**Going deeper (optional):**
+- **Inner Compass** — Where your nervous system is pointing
+- **The Map** — 12 levels explaining why patterns form
+
+**Key shift:** Start with what's practical. The depth is there when you're ready.
+
+### teg-blue.org — Research Voice
+
+**Lead with:** Architecture, science, testable claims
+**Tone:** Professional, precise, intellectually honest
+**Entry:** "State determines capacity..."
+**Audience:** Practitioners, researchers, academics
+
+**Tagline:** An integrative architecture for emotional clarity.
+
+**Opening:**
+> TEG-Blue is an integrative architecture connecting established research from neuroscience, psychology, sociology, and trauma studies into a unified system.
+>
+> State determines capacity — what someone can perceive, feel, think, and do depends on their nervous system regulatory state, not their character or intelligence.
+
+**Core elements:**
+- **The testable claim** — Capacity to return to Connection predicts outcomes
+- **The 1 + 2 = 3 principle** — Building blocks are established; connections are hypothesis
+- **139+ source theories** — All credited, open for verification
+
+**Key shift:** Lead with the science. The practical application is at .com.
+
+### Quick Reference: Which Voice?
+
+| Context | Voice | Site |
+|---------|-------|------|
+| Someone googling "why do I feel this way" | .com | Application |
+| Therapist looking for tools | .com | Application |
+| Researcher evaluating the framework | .org | Research |
+| Academic citing the work | .org | Research |
+| LinkedIn professional audience | .org | Research |
+| Instagram/general social | .com | Application |
+| Podcast for general audience | .com | Application |
+| Academic conference | .org | Research |
+
+For full .com messaging, see [MESSAGING-COM.md](./MESSAGING-COM.md).
+
+---
+
 *Last updated: February 2026*
