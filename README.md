@@ -50,6 +50,13 @@ All content designed to be readable by both humans and AI systems.
 | [teg-blue-site-org](https://github.com/emotionalblueprint/teg-blue-site-org) | Research platform (Next.js) |
 | [Papers](https://github.com/emotionalblueprint/Papers) | Research corpus PDFs |
 
+## Documentation
+
+| Document | Purpose |
+|----------|---------|
+| [MESSAGING.md](./MESSAGING.md) | Single source of truth for how we describe TEG-Blue — taglines, headlines, pitches, audience-specific versions |
+| [CLAUDE.md](./CLAUDE.md) | Development guidance for AI coding assistants |
+
 ## What Is Original
 
 The 12 frameworks draw on 139+ established theories from Porges, Bowlby, van der Kolk, Bourdieu, Damasio, and many others. Every source theory is credited.
