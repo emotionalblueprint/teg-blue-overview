@@ -16,15 +16,16 @@ emotionalblueprint/
 ├── teg-blue-overview/     # This repo — project overview
 ├── teg-blue-site-com/     # Application site (teg-blue.com)
 ├── teg-blue-site-org/     # Research site (teg-blue.org)
-└── Papers/                # Research corpus PDFs
+├── teg-blue-vault/        # Content vault — source of truth for all public content
+└── _Papers/               # Research corpus PDFs
 ```
 
 ## Two-Site Architecture
 
 | Site | Purpose | Audience |
 |------|---------|----------|
-| **teg-blue.com** | Interactive tools & application | Everyday people, practitioners |
-| **teg-blue.org** | Open science & research | Researchers, academics |
+| **teg-blue.com** | Interactive tools & application | Anyone seeking clarity about patterns |
+| **teg-blue.org** | Open science & research | Researchers, scientists, academics, practitioners |
 
 Both sites link to each other. Same framework, different purposes.
 
@@ -42,6 +43,7 @@ For site-specific changes, update the respective site's README and CLAUDE.md ins
 Each site repository has its own detailed CLAUDE.md:
 - `teg-blue-site-com/CLAUDE.md` — Application site conventions, components, design system
 - `teg-blue-site-org/CLAUDE.md` — Research platform conventions, content structure
+- `teg-blue-vault/CLAUDE.md` — Content vault, source-of-truth architecture, content pipeline
 
 The parent Projects folder also has a CLAUDE.md with cross-project commands:
-- `Projects/CLAUDE.md` — Quick commands, site comparison, shared conventions
+- `Projects/CLAUDE.md` — Quick commands, site comparison, tech stack
